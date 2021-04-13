@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-order = 3
+order = 2
 x = np.linspace(-15,15,100)
 y = np.zeros(len(x))
 
